@@ -9,6 +9,12 @@
     "file": "experiments/chaos.js",
     "name": "Fall out of order",
     "description": "Creates a grid of squares with equal spacing and size. A variable named chaos is defined which will be the offset for the squares order and grows the further down on the canvas. With that variable, translate and rotation parameters are set as a function of the chaos variable. "
+  },
+
+  {
+    "file": "experiments/chaos_variation_1.js",
+    "name": "Fall out of order, variation 1",
+    "description": "Creates a grid of squares with equal spacing and size. A variable named chaos is defined which will be the offset for the squares order and grows the further down on the canvas. With that variable, translate and rotation parameters are set as a function of the chaos variable. "
   }
 ]
 
